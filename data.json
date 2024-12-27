@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Restaurant Al Achab Medina",
+    "address": " 1 Rue Tarik, Tangier, Morocco.",
+    "specialty": "Moroccan, Seafood, Mediterranean, Grill",
+    "rating": "4.5 ⭐",
+    "review": "This food is for angels. Experience innoubliable chez al achab à tanger.",
+    "contact": "+212 661505537",
+    "cover": "img/achab.jpg",
+    "pic": "img/achabPic.jpg"
+  },
+  {
+    "name": "Restaurant Ahlen",
+    "address": "8 Rue des Postes, Tangier, Morocco. ",
+    "specialty": "Moroccan, Healthy",
+    "rating": "4.7 ⭐",
+    "review": "Terrific tagine in Tangiers. I recommend the fish soup and the lamb.",
+    "contact": "+212 645007510",
+    "cover": "img/ahlen.jpg",
+    "pic": "img/ahlenPic.jpg"
+  },
+  {
+    "name": "Alma Kitchen Coffee",
+    "address": "44 Rue Antaki, Tangier 90000, Morocco.",
+    "specialty": "Cafe, International",
+    "rating": "4.6 ⭐",
+    "review": "Good veggie brunch. Excellent food and accommodating to gluten-free diners.",
+    "contact": "https://almatanger.com/",
+    "cover": "img/alma.jpeg",
+    "pic": "img/almaPic.jpeg"
+  },
+  {
+    "name": "Restaurant Al Maimouni",
+    "address": "The entrance of Tangier's Medina, Morocco.",
+    "specialty": "Moroccan, Mediterranean",
+    "rating": "4.4 ⭐",
+    "review": "Attentive personal, high level of service and really authentic dishes.",
+    "contact": "+212 774267947",
+    "cover": "img/maimouni.jpg",
+    "pic": "img/maimouniPic.jpeg"
+  },
+  {
+    "name": "Mozzarino",
+    "address": " Rue Hollande, Tangier, Morocco.",
+    "specialty": "Italian and Lebanese",
+    "rating": "4.5 ⭐",
+    "review": "I go there often for the cheap prices, high quality, friendly staff and the quick service.",
+    "contact": "+212 5393-73777",
+    "cover": "img/mozzarino.jpg",
+    "pic": "img/mozzarinoPic.jpg"
+  },
+  {
+    "name": "Olivier Restaurant",
+    "address": " Km 19.8, National Road Tangier-Assilah, Tangier, Morocco.",
+    "specialty": "French, European",
+    "rating": "4.3 ⭐",
+    "review": "Added to that, chatting with Ali and Tariq who were so helpful and lovely.",
+    "contact": "+212 539409400",
+    "cover": "img/olivier.jpg",
+    "pic": "img/olivierPic.png"
+  },
+  {
+    "name": "Restaurant Palais Zahia",
+    "address": "Palais Zahia, Tangier, Morocco.",
+    "specialty": "Moroccan",
+    "rating": "4.4 ⭐",
+    "review": "Delicious food and fairly priced. Highly recommend the tajine and the chef’s special.",
+    "contact": "http://www.palais-zahia.com/restaurant-tanger.php",
+    "cover": "img/zahia.jpg",
+    "pic": "img/zahiaPic.jpg"
+  },
+  {
+    "name": "La Vue",
+    "address": "Ghandouri, Tangier, Morocco.",
+    "specialty": "Mediterranean, European",
+    "rating": "4.0 ⭐",
+    "review": "Amazing view with great food. Best place for a sunset dinner.",
+    "contact": "https://lavuetanger.com/",
+    "cover": "img/vue.jpg",
+    "pic": "img/vuePic.jpg"
+  },
+  {
+    "name": "RR-ice",
+    "address": "Ghandouri, Tangier, Morocco 90000.",
+    "specialty": "fresh seafood, traditional Moroccan dishes, and ice cream",
+    "rating": "4.1 ⭐",
+    "review": "Offers a pleasant beachfront ambiance with mixed reviews on its food quality and service.",
+    "contact": "+212 539301039",
+    "cover": "img/RRice.webp",
+    "pic": "img/RRicePic.jpg"
+  },
+  {
+    "name": "Restaurant L'Ocean",
+    "address": "Plage Sidi Kacem, Tangier, Morocco.",
+    "specialty": "French, Seafood",
+    "rating": "4.3 ⭐",
+    "review": "Location, food quality, ambiance are just perfect.",
+    "contact": "+212 539338137",
+    "cover": "img/ocean.jpg",
+    "pic": "img/oceanPic.jpg"
+  },
+  {
+    "name": "Restaurant Vandalucia",
+    "address": " 7 Rue Gzenaya, Tangier, Morocco.",
+    "specialty": "African, Moroccan",
+    "rating": "3.7 ⭐",
+    "review": "Warm welcoming and the meal was finished off with a fruit platter and traditional mint tea.",
+    "contact": "+212 656739613",
+    "cover": "img/vandalucia.jpg",
+    "pic": "img/vandaluciaPic.jpg"
+  },
+  {
+    "name": "DarHarruch",
+    "address": "35 Rue Mohamed Torres, Tangier, Morocco.",
+    "specialty": "African, Moroccan",
+    "rating": "4.7 ⭐",
+    "review": "Chicken tortilla, chicken ravine and beef couscous, all were delicious!",
+    "contact": "+212 664100606",
+    "cover": "img/darharruch.jpg",
+    "pic": "img/darharruchPic.jpg"
+  },
+  {
+    "name": "Restaurant Antartique Tanger",
+    "address": "109 Avenue ben Abi Zaraa Braness, Tangier, Morocco.",
+    "specialty": "Seafood, Spanish",
+    "rating": "4.8 ⭐",
+    "review": "The best seafood I ever had! Best seafood restaurant so far.",
+    "contact": "https://www.antartique.ma/",
+    "cover": "img/antartique.jpg",
+    "pic": "img/antartiquePic.jpg"
+  },
+  {
+    "name": "Restaurant Kebdani",
+    "address": "Rue Dar Baroud, Tangier, Morocco.",
+    "specialty": "Moroccan, Mediterranean, Healthy, Middle Eastern",
+    "rating": "4.6 ⭐",
+    "review": "Best birthday celebration ever!! Great place and staff.",
+    "contact": "+212 711768082",
+    "cover": "img/kebdani.jpg",
+    "pic": "img/kebdaniPic.jpg"
+  },
+  {
+    "name": "Le Pti Versailles",
+    "address": "7 Rue d'Angleterre, Tangier, Morocco.",
+    "specialty": "French, International",
+    "rating": "4.5 ⭐",
+    "review": "Wonderful service. Just a beautiful restaurant!",
+    "contact": "https://leptiversailles.com/",
+    "cover": "img/versaille.jpg",
+    "pic": "img/versaillePic.jpg"
+  }
+]

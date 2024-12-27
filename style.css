@@ -1,0 +1,245 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeffee;
+}
+
+header {
+    background-color: white; 
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd; 
+}
+
+header nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+header nav ul li {
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color:#90EE90; 
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav img {
+    width: 70px;
+    height: 70px;
+}
+
+header nav ul li a:hover {
+    color: #010101;
+}
+
+.backgroundImg {
+    background-image: url('img/tangier.jpeg');
+    background-size: cover;
+    background-position: center;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.6);
+    background-color: rgba(0, 0, 0, 0.3);
+    background-blend-mode: overlay;
+}
+
+.backgroundImg h1 {
+    font-size: 2.5rem;
+    padding: 20px;
+    text-align: center;
+}
+
+.inputSearch {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.inputSearch input {
+    width: 300px;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #90EE90;
+    border-radius: 5px;
+    background-color: #f8faf8;
+}
+
+.inputSearch button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #ffffff;
+    color: #0b0a0a;
+    border: 1px solid #90EE90;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.inputSearch button:hover {
+    background-color: #90EE90;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: center; 
+    gap: 20px; 
+    padding: 20px;
+}
+
+.rests {
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 30%;
+    height: 700px;
+    text-align: center;
+    transition: transform 0.3s ease;
+    padding: 20px;
+}
+
+.rests:hover {
+    transform: translateY(-5px);
+}
+
+.rests img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+
+.rests h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 10px 0;
+}
+
+.rests p {
+    font-size: 1rem;
+    color: #666;
+    margin: 5px 0;
+}
+
+.rests button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #90EE90;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.rests button:hover {
+    background-color: #90EE90;
+}
+
+.sectionSearch .restsdiv, .container .rests {
+    width: 30%;
+    height: 700px;
+    margin: 20px auto;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    background-color: #f9fff1;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+  }
+  
+  .sectionSearch .restsdiv img, .container .rests img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-radius: 10px;
+  }
+  
+  .sectionSearch .restsdiv h2, .container .rests h2 {
+    font-size: 1.8em;
+    color: #333;
+    margin: 15px 0 10px;
+    font-weight: bold;
+  }
+  
+  .sectionSearch .restsdiv p, .container .rests p {
+    font-size: 1em;
+    color: #555;
+    margin: 5px 0;
+    line-height: 1.5;
+  }
+  
+  .sectionSearch .restsdiv p:last-of-type, .container .rests p:last-of-type {
+    font-weight: bold;
+    color: #222;
+  }
+  
+  .sectionSearch .restsdiv button, .container .rests button {
+    margin-top: 15px;
+    padding: 10px 25px;
+    background-color: #00c853;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 1em;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .sectionSearch .restsdiv button:hover, .container .rests button:hover {
+    background-color: #009624; 
+  }
+  
+  body {
+    background-color: #e8f5e9; 
+    padding: 20px;
+  }
+  footer {
+    background-color:#90EE90; 
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd; 
+}
+footer nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+footer nav ul li {
+    margin-left: 20px;
+}
+
+footer nav ul li a {
+    color:#ffffff; 
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer nav img {
+    width: 70px;
+    height: 70px;
+}
+svg {
+    color: white;
+    margin: 10px;
+    height: 20px;
+    width: 20px;
+}
+svg a {
+    text-decoration: none;
+}

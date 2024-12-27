@@ -1,0 +1,215 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eeffee;
+}
+
+header {
+    background-color: white; 
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd; 
+}
+
+header {
+    background-color: white; 
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd; 
+}
+
+header nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+header nav ul li {
+    margin-left: 20px;
+}
+
+header nav ul li a {
+    color:#90EE90; 
+    text-decoration: none;
+    font-weight: bold;
+}
+
+header nav img {
+    width: 70px;
+    height: 70px;
+}
+
+header nav ul li a:hover {
+    color: #010101;
+}
+main {
+    display: block;
+    padding: 20px;
+    gap: 20px;
+}
+
+#form-section {
+    background: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+form label {
+    display: block;
+    margin-bottom: 10px;
+    font-weight: bold;
+}
+
+form input {
+    width: 50%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+form button {
+    display: block;
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s ease;
+}
+
+form button:hover {
+    background-color: #45a049;
+}
+
+#list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+}
+
+.restaurantCards {
+    background-color: #fff;
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    width: 30%;
+    height: auto;
+    text-align: center;
+    transition: transform 0.3s ease;
+    padding: 20px;
+}
+
+.restaurantCards:hover {
+    transform: translateY(-5px);
+}
+
+.restaurantCards img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+    border-bottom: 1px solid #ddd;
+}
+
+.restaurantCards h2 {
+    font-size: 1.5rem;
+    color: #333;
+    margin: 10px 0;
+}
+
+.restaurantCards p {
+    font-size: 1rem;
+    color: #000000;
+    margin: 5px 0;
+}
+.restaurantCards a {
+    text-decoration: none;
+}
+.restaurantCards button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #ffffff;
+    color: #000000;
+    border: 1px solid #90EE90;
+    cursor: pointer;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+
+.restaurantCards button:hover {
+    background-color: #90EE90;
+}
+footer {
+    background-color:#90EE90; 
+    padding: 10px 0;
+    border-bottom: 1px solid #ddd; 
+}
+footer nav ul {
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: space-between;
+    padding: 0 50px;
+}
+
+footer nav ul li {
+    margin-left: 20px;
+}
+
+footer nav ul li a {
+    color:#ffffff; 
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer nav img {
+    width: 70px;
+    height: 70px;
+}
+svg {
+    color: white;
+    margin: 10px;
+    height: 20px;
+    width: 20px;
+}
+svg a {
+    text-decoration: none;
+}
+.inputSearch {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.inputSearch input {
+    width: 300px;
+    padding: 10px;
+    font-size: 1rem;
+    border: 1px solid #90EE90;
+    border-radius: 5px;
+    background-color: #f8faf8;
+}
+
+.inputSearch button {
+    padding: 10px 20px;
+    font-size: 1rem;
+    background-color: #ffffff;
+    color: #0b0a0a;
+    border: 1px solid #90EE90;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.inputSearch button:hover {
+    background-color: #90EE90;
+}
